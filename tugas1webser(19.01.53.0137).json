@@ -1,0 +1,311 @@
+{
+    "techshop": [
+        {
+        "kategori[1]gadget": [ 
+            {
+                "idproduk" : "PRDKG001",
+                "namaproduk": [
+                    {
+                        "nama":"Xiaomi Redmi Note 8 Pro",
+                        "ukuran": "6.53'",
+                        "ram": "4-8GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "The Redmi lineup has been one of the most sought-after budget smartphones for years now, but with competition heating up in the segment, Xioami needs to step up its game to stay relevant. The Redmi Note 8 Pro is an attempt to do that and has a lot to offer for the price delivering new hardware and a set of much-needed features.",
+                "berat": "200g",
+                "harga": "$ 189.00 / £ 203.99",
+                "stock": "1500"
+            },
+            {
+                "idproduk" : "PRDKG002",
+                "namaproduk": [
+                    {
+                        "nama":"Xiaomi Redmi Note 11",
+                        "ukuran": "6.43'",
+                        "ram": "4-6GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "The device we are reviewing today is the recently-announced international Redmi Note 11. It brings a few notable improvements to its predecessor - the Redmi Note 10. Its Super AMOLED panel may be the same size and resolution but its refresh rate is not higher at 90Hz. There is also a new 50MP main camera.",
+                "berat": "179g",
+                "harga": "$ 189.00 / £ 203.99 / € 177.89 / ₹ 13,499",
+                "stock": "3000"
+            },
+            {
+                "idproduk" : "PRDKG003",
+                "namaproduk": [
+                    {
+                        "nama":"Asus ROG Phone 5s",
+                        "ukuran": "6.78",
+                        "ram": "8-16GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "Fueled for winning by the latest Qualcomm® Snapdragon® 888+ 5G mobile platform, ROG Phone 5s launches your mobile gaming experience into the next dimension. With an unbelievably responsive 360 Hz native touch sampling rate, the 144 Hz / 1 ms display brings you the smoothest ever viewing experience. It also packs a monster 6000 mAh1 battery system, AirTrigger 5 game controls, and our iconic GameFX audio system. Dare to choose ROG Phone 5s, and you’ll be rewarded with unbridled performance for a world-leading gaming and entertainment experience.",
+                "berat": "238g",
+                "harga": "$ 638.99 / £ 546.38 / € 1,055.00",
+                "stock": "4900"
+            },
+            {
+                "idproduk" : "PRDKG004",
+                "namaproduk": [
+                    {
+                        "nama":"Google Pixel 3 XL",
+                        "ukuran": "6.3'",
+                        "ram": "4GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "The Pixel 3 XL is Google's latest flagship smartphone. It promises to bring everything we have come to expect with the Pixel brand, including a clean build of Android, fast performance, quality camera and some cool software tricks that only Google can come up with.",
+                "berat": "184g",
+                "harga": "$ 162.00 / C$ 339.99 / £ 289.95 / € 299.95 / ₹ 24,999",
+                "stock": "2323"
+            },
+            {
+                "idproduk" : "PRDKG005",
+                "namaproduk": [
+                    {
+                        "nama":"Sony Xperia 1 III",
+                        "ukuran": "6.5'",
+                        "ram": "12GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "Sony is back at it again and despite the ever dropping sales results, it's even got a few smartphone firsts for us. The Xperia 1 III, the latest true flagship in the lineup, is the logical vehicle for those, and we're here to tell you all about it.",
+                "berat": "186g",
+                "harga": "$ 795.00 / £ 887.99 / € 995.00",
+                "stock": "4444"
+            },
+            {
+                "idproduk" : "PRDKG006",
+                "namaproduk": [
+                    {
+                        "nama":"OnePlus 9 Pro",
+                        "ukuran": "6.7'",
+                        "ram": "8/12GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "OnePlus continues to find its place in the smartphone industry with the OnePlus 9 duo. The 9 and 9 Pro establishes OnePlus with a new partnership in the camera space - every major Chinese OEM has one, after all. With the new smartphones bearing the Hasselblad name, does the OnePlus flagship finally have a camera experience free of compromises? OnePlus uses the tagline Your best shot so we are setting our expectations high for the cameras performance.",
+                "berat": "197g",
+                "harga": "$ 649.58 / C$ 1,099.99 / £ 625.00 / € 689.00 / ₹ 54,199",
+                "stock": "5131"
+            },
+            {
+                "idproduk" : "PRDKG007",
+                "namaproduk": [
+                    {
+                        "nama":"Apple iPhone 13 Pro",
+                        "ukuran": "6.1'",
+                        "ram": "6GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "The 'biggest camera update ever' on an iPhone doesn't have to come in a big iPhone, at least not a Max-sized one - the iPhone 13 Pro will do. Unlike last year, when only the 12 Pro Max got the ultimate camera system, the differences between the two Pro sizes now are simply in quantity, not in quality.",
+                "berat": "204g",
+                "harga": "$ 999.00 / £ 899.00 / € 1,040.00 / ₹ 119,900",
+                "stock": "2134"
+            },
+            {
+                "idproduk" : "PRDKG008",
+                "namaproduk": [
+                    {
+                        "nama":"Google Pixel 5a 5G",
+                        "ukuran": "6.34'",
+                        "ram": "6GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "The Google Pixel 5a is the third iteration of Google's Pixel Series: smartphones based on the Google Pixel experience made with lower-cost entry points in mind. There's also now more emphasis on battery life and water resistance. The latter is a welcome feature to the  Pixel family. The phone Is very similar to the Pixel 4a 5G in size, appearance, and specs. They aren't identical, but pretty darn close.",
+                "berat": "183g",
+                "harga": "$ 445.95",
+                "stock": "5434"
+            },
+            {
+                "idproduk" : "PRDKG09",
+                "namaproduk": [
+                    {
+                        "nama":"OnePlus 9RT 5G",
+                        "ukuran": "6.62'",
+                        "ram": "8/12GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "The 9RT straddles the line between the premium OnePlus smartphones, like the OnePlus 9 and the 9 Pro, and the more budget-oriented Nord series. The reason why OnePlus chose to launch these phones in Asia only is anybody's guess.",
+                "berat": "198.5g",
+                "harga": "$ 479.00 / ₹ 39,999",
+                "stock": "2311"
+            },
+            {
+                "idproduk" : "PRDKG010",
+                "namaproduk": [
+                    {
+                        "nama":"Apple iPhone 13 min",
+                        "ukuran": "5.4'",
+                        "ram": "4GB",
+                        "warna": "Red, White, Blue"
+                    }
+                ],
+                "deskripsi": "The Apple iPhone 13 mini is the most compact flagship smartphone money can buy. It's also easy enough to outright recommend to anyone looking for this particular type of device. It is astonishingly rare to find such a pocket-friendly smartphone, let alone one of flagship caliber.",
+                "berat": "141g",
+                "harga": "$ 699.99 / £ 613.97 / € 699.00 / ₹ 64,900",
+                "stock": "24124"
+            }
+
+        ],
+        "kategori[2]smartwatch": [
+            {
+                "idproduk" : "PRDKSW001",
+                "namaproduk": [
+                    {
+                        "nama":"Samsung Galaxy Watch4",
+                        "ukuran": "1.4'",
+                        "ram": "1.5GB",
+                        "warna": "Black, Pink Gold, Silver, Green, Thom Browne Edition, Bespoke Edition, PXG Golf Edition"
+                    }
+                ],
+                "deskripsi": "Samsung made a huge shift in its wearable direction with the Galaxy Watch4 and Watch4 Classic this year. Already one of the biggest rivals to Apple's dominating Watch series, Samsung's Tizen watches have consistently ranked third behind Xiaomi's wearables. Tizen was steadily becoming a hallmark of smart wearables, and the Galaxy Watch is a name associated with elegance and rich capabilities.",
+                "berat": "30.3g",
+                "harga": "$ 200.00 / € 178.00",
+                "stock": "2412"
+            },
+            {
+                "idproduk" : "PRDKSW002",
+                "namaproduk": [
+                    {
+                        "nama":"Xiaomi Watch S1 Active",
+                        "ukuran": "1.43'",
+                        "ram": "-",
+                        "warna": "Moon White, Space Black, Ocean Blue"
+                    }
+                ],
+                "deskripsi": "Alongside the global launch of the 12 series, Xiaomi showed the S1 pair of smartwatches that take direct aim at Huawei and Samsung’s lineups. The Xiaomi Watch S1 and Watch S1 Active share their internals and smarts, but they’re very different on the outside and target different people - one is a classy, premium watch, the other is a youthful, sporty watch.",
+                "berat": "36g",
+                "harga": "€ 179.99",
+                "stock": "7654"
+            },
+            {
+                "idproduk" : "PRDKSW003",
+                "namaproduk": [
+                    {
+                        "nama":"Xiaomi Watch S1",
+                        "ukuran": "1.43'",
+                        "ram": "-",
+                        "warna": "Black, Silver"
+                    }
+                ],
+                "deskripsi": "Xiaomi showed the S1 pair of smartwatches that take direct aim at Huawei and Samsung’s lineups.",
+                "berat": "23g",
+                "harga": "€ 159.99",
+                "stock": "2243"
+            },
+            {
+                "idproduk" : "PRDKSW004",
+                "namaproduk": [
+                    {
+                        "nama":"Samsung Gear S3 frontier",
+                        "ukuran": "1.3'",
+                        "ram": "768MB",
+                        "warna": "Silver"
+                    }
+                ],
+                "deskripsi": "The wearable market has been expanding rapidly these last couple of years and things are only looking up. This is not the first time tech has tried to slip onto user's wrists, but this time around it seems both the business and consumer sides are finally ready. Wearables, and smartwatches, in particular, are really starting to mature.",
+                "berat": "63g",
+                "harga": "€ 180.99",
+                "stock": "653"
+            },
+            {
+                "idproduk" : "PRDKSW005",
+                "namaproduk": [
+                    {
+                        "nama":"Realme Watch 2",
+                        "ukuran": "1.4'",
+                        "ram": "-",
+                        "warna": "Black"
+                    }
+                ],
+                "deskripsi": "Realme’s first smartwatch came out a year ago and since then we’ve seen four more smartwatches from the brand. The latest at our doorstep is the Realme Watch 2 – a direct successor to the Realme Watch and it's time to see what a year’s worth of development brings to the table.",
+                "berat": "38g",
+                "harga": "€ 200.99",
+                "stock": "1111"
+            },
+            {
+                "idproduk" : "PRDKSW006",
+                "namaproduk": [
+                    {
+                        "nama":"Huawei Watch 2",
+                        "ukuran": "1.2'",
+                        "ram": "768MB",
+                        "warna": "Dynamic Orange, Carbon Black, Concrete Grey"
+                    }
+                ],
+                "deskripsi": "Huawei unveiled the Watch 2 next to the P10 flagship smartphone duo. Although the handsets took most of the attention in Barcelona, the watches - yep, multiple versions here too - didn't completely go unnoticed either. After all, it's been two years since the original Huawei Watch.",
+                "berat": "57g",
+                "harga": "€ 209.99",
+                "stock": "1234"
+            },
+            {
+                "idproduk" : "PRDKSW007",
+                "namaproduk": [
+                    {
+                        "nama":"Motorola Moto 360 46mm (2nd gen)",
+                        "ukuran": "1.56'",
+                        "ram": "512MB",
+                        "warna": "Black Leather, Black Metal, Rose Gold/Blush Leather, Silver/Cognac Leather"
+                    }
+                ],
+                "deskripsi": "A year after the first generation took the smartwatch world by storm with its timeless looks, it is time for the new Moto 360 to step up to the plate. The new iteration of Motorola's acclaimed Android Wear device arrives on the market with revamped design, highly customizable body in two sizes, a version designed for ladies, and a brand new Sport model.",
+                "berat": "42g",
+                "harga": "€ 230.99",
+                "stock": "4322"
+            },
+            {
+                "idproduk" : "PRDKSW008",
+                "namaproduk": [
+                    {
+                        "nama":"Sony SmartWatch 3 SWR50",
+                        "ukuran": "1.6'",
+                        "ram": "512MB",
+                        "warna": "Leather Brown, Leather Black, Silver, Black, Yellow"
+                    }
+                ],
+                "deskripsi": "Mobile World Congress is well under way and we stopped by Sony's stand to play around with whatever the Japanese company had prepared for us. We weren't disappointed, even though the tech giant had decided to postpone the launch of the Xperia Z4 high-end smartphone.",
+                "berat": "76g",
+                "harga": "€ 130.99",
+                "stock": "3241"
+            },
+            {
+                "idproduk" : "PRDKSW009",
+                "namaproduk": [
+                    {
+                        "nama":"Realme Watch S Pro",
+                        "ukuran": "1.39'",
+                        "ram": "-",
+                        "warna": "Black"
+                    }
+                ],
+                "deskripsi": "Realme launched its first wearable dubbed Realme Band last March and followed it up with its first smartwatch called Realme Watch in May. The company then unveiled the Watch S in November and the Watch S Pro.",
+                "berat": "43g",
+                "harga": "€ 210.99",
+                "stock": "753"
+            },
+            {
+                "idproduk" : "PRDKSW010",
+                "namaproduk": [
+                    {
+                        "nama":"Samsung Gear 2",
+                        "ukuran": "1.63'",
+                        "ram": "512MB",
+                        "warna": "Charcoal Black, Gold Brown, Wild Orange"
+                    }
+                ],
+                "deskripsi": "Rumors got a few details right, but not the whole picture, obviously. After so many updates and sequels to the S4, it's perhaps not all that surprising that the S5 feels like a small step forward.",
+                "berat": "68g",
+                "harga": "€ 310.99",
+                "stock": "2313"
+            }
+        ]
+        }
+    ]
+}
